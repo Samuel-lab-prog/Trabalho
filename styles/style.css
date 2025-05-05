@@ -1,3 +1,9 @@
 body{
     padding-bottom: 2000px;
 }
+
+:root {
+  --bs-primary: #e83e8c;   /* Rosa */
+  --bs-secondary: #6f42c1; /* Roxo */
+}
+
